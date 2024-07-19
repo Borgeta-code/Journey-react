@@ -35,13 +35,14 @@ npm run start
 assim seu projeto estará pronto e rodando no endereço:
 
 ```
-http://localhost:3000
+http://localhost:5173
 ```
 
 ## 🛠️ Construído com
 
 - [Vite](https://vitejs.dev/) 
-- [Typescript](https://www.typescriptlang.org/) 
+- [Typescript](https://www.typescriptlang.org/)
+- [Tailwind CSS](https://tailwindcss.com/)
 
 ## ✒️ Autores
 
