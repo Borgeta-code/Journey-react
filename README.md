@@ -1,6 +1,6 @@
-# Journey
+# Planner
 
-O Journey uma aplicação de **gestão de viagens**. A ferramenta permite cadastrar viagens, convidar amigos, criar atividades nessa viagem e muito mais.
+O Planner uma aplicação de **gestão de viagens**. A ferramenta permite cadastrar viagens, convidar amigos, criar atividades nessa viagem e muito mais.
 
 Esse repositório contém o Frontend criado durante o NLW JOURNEY da [Rocketseat](https://www.rocketseat.com.br/), na trilha de react!
 
